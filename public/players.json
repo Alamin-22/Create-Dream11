@@ -1,0 +1,140 @@
+[
+    {
+        "id": 1,
+        "name": "Tamim Iqbal",
+        "salary": 90,
+        "img": "https://i.ibb.co/3WMfrFx/tamim.png",
+        "type": "Batsman"
+    },
+    {
+        "id": 2,
+        "name": "Mahmudullah Riyad",
+        "salary": 80,
+        "img": "https://i.ibb.co/wYTX5cD/riyad.jpg",
+        "type": "All-rounder"
+    },
+    {
+        "id": 3,
+        "name": "Mushfiqur Rahim",
+        "salary": 95,
+        "img": "https://i.ibb.co/D9JKtBk/mushfiqur-rahim.jpg",
+        "type": "Wicket-keeper batsman"
+    },
+    {
+        "id": 4,
+        "name": "Shakib Al Hasan",
+        "salary": 145,
+        "img": "https://i.ibb.co/f21wcTK/Shakib.jpg",
+        "type": "All-rounder"
+    },
+    {
+        "id": 5,
+        "name": "Liton Das",
+        "salary": 50,
+        "img": "hhttps://i.ibb.co/Z1Sy1NL/Liton-Das.jpg",
+        "type": "Wicket-keeper batsman"
+    },
+    {
+        "id": 6,
+        "name": "Mohammad Mithun",
+        "salary": 25,
+        "img": "https://i.ibb.co/d6RpXwf/mithun.png",
+        "type": "Batsman"
+    },
+    {
+        "id": 7,
+        "name": "Najmul Hossain Shanto",
+        "salary": 60,
+        "img": "https://i.ibb.co/0YRB02Z/shanto.png",
+        "type": "Batsman"
+    },
+    {
+        "id": 8,
+        "name": "Yasir Ali Chowdhury",
+        "salary": 25,
+        "img": "https://i.ibb.co/ZNY249S/yeasir.webp",
+        "type": "Batsman"
+    },
+    {
+        "id": 9,
+        "name": "Afif Hossain Dhrubo",
+        "salary": 55,
+        "img": "https://i.ibb.co/4R8xmYy/afif.jpg",
+        "type": "Batsman"
+    },
+    {
+        "id": 10,
+        "name": "Mahedi Hasan Miraz",
+        "salary": 45,
+        "img": "https://i.ibb.co/cQw264V/gettyimages-688905782-612x612.jpg",
+        "type": "Spinner"
+    },
+    {
+        "id": 11,
+        "name": "Taskin Ahmed",
+        "salary": 90,
+        "img": "https://i.ibb.co/jWVdQrP/Taskin.jpg",
+        "type": "Fast bowler"
+    },
+    {
+        "id": 12,
+        "name": "Mosaddek Hossain Saikat",
+        "salary": 35,
+        "img": "https://i.ibb.co/z4rYg2y/mosaddek-hossain-15-03-2022.jpg",
+        "type": "All-rounder"
+    },
+    {
+        "id": 13,
+        "name": "Mustafizur Rahman",
+        "salary": 52,
+        "img": "https://i.ibb.co/bH7Kzws/0cf24-16752333496292-1920.webp",
+        "type": "Fast bowler"
+    },
+    {
+        "id": 14,
+        "name": "Hasan Mahmud",
+        "salary": 50,
+        "img": "https://i.ibb.co/6NKtsVc/Hasan-Mahmud.jpg",
+        "type": "Fast bowler"
+    },
+    {
+        "id": 15,
+        "name": "Anamul Haque Bijoy",
+        "salary": 70,
+        "img": "https://i.ibb.co/jwm9NFX/pasted-image-0-82-1.png",
+        "type": "Batsman"
+    },
+    {
+        "id": 16,
+        "name": "Shoriful Islam",
+        "salary": 60,
+        "img": "https://i.ibb.co/yhNsrWJ/13583.png",
+        "type": "Fast bowler"
+    },
+    {
+        "id": 17,
+        "name": "Nasum Ahmed",
+        "salary": 45,
+        "img": "https://i.ibb.co/4fRT6MM/download.jpg",
+        "type": "Spinner"
+    },
+    {
+        "id": 18,
+        "name": "Nurul Hasan Sohan",
+        "salary": 25,
+        "img": "https://i.ibb.co/df6NY99/sohan.jpg",
+        "type": "Wicket-keeper batsman"
+    },
+    {
+        "id": 19,
+        "name": "Taijul Islam",
+        "salary": 65,
+        "img": "https://i.ibb.co/X8XW3Z4/357577.webp"
+    },
+    {
+        "id": 20,
+        "name": "Tawhid Hridoy",
+        "salary": 85,
+        "img": "https://i.ibb.co/9q5FttF/gettyimages-1472969514-612x612.jpg"
+    }
+]
