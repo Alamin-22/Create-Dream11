@@ -1,0 +1,7 @@
+body{
+    background-image: url("https://i.ibb.co/Xb0Pf0m/background.jpg");
+        background-blend-mode: overlay;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+}
