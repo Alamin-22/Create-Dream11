@@ -21,6 +21,7 @@ const Home = () => {
     const handleSelectedPlayer = (player) => {
         const isExist = selectedPlayer.find((item => item.id == player.id));
         let priceCount = player.salary;
+        let maxPlayer=11;
         // console.log(priceCount)
         if (isExist) {
             return toast.warn("You already select this player", { position: "top-center" })
@@ -29,11 +30,16 @@ const Home = () => {
             selectedPlayer.forEach(item => {
                 priceCount = priceCount + item.salary;
             });
-            const availableSlot = 11 - selectedPlayer.length;
-            setRemainingPlayer(availableSlot);
+            const availableSlot = maxPlayer - (selectedPlayer.length + 1);
+            console.log(availableSlot, maxPlayer)
+            if(availableSlot < 0){
+                return toast.warn("You cannot select more than 11 player", { position: "top-center" })
+            }else{
+                setRemainingPlayer(availableSlot);
+                setPriceCount(priceCount)
+                setSelectedPlayer([...selectedPlayer, player])
+            }
             
-            setPriceCount(priceCount)
-            setSelectedPlayer([...selectedPlayer, player])
         }
     }
 
