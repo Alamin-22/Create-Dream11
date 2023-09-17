@@ -4,6 +4,7 @@ import Cart from '../Cart/Cart';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
+
 const Home = () => {
 
 
@@ -45,9 +46,9 @@ const Home = () => {
 
     return (
         <div>
-            <header>
+            <div>
                 <h1 className='text-4xl text-white font-bold text-center py-3'>Make Your Dream 11 </h1>
-            </header>
+            </div>
             <div className='md:flex gap-5 mx-5'>
                 {/* Card container */}
                 <div className='grid grid-cols-1 lg:grid-cols-3 gap-5'>
